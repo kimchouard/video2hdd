@@ -1,0 +1,1 @@
+java -jar "dist\video2hdd.jar"
