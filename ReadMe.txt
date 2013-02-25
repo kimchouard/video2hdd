@@ -1,30 +1,12 @@
 ﻿========================================================================
-    APPLICATION CONSOLE : Vue d'ensemble du projet video2hdd
+    APPLICATION Java : Vue d'ensemble du projet video2hdd
 ========================================================================
 
-AppWizard a créé cette application video2hdd pour vous.
-
-Ce fichier contient un résumé du contenu de chacun des fichiers qui constituent votre application video2hdd.
-
-
-video2hdd.vcxproj
-    Il s'agit du fichier projet principal pour les projets VC++ générés à l'aide d'un Assistant Application. Il contient des informations sur la version de Visual C++ utilisée pour générer le fichier ainsi que des informations relatives aux plateformes, configurations et fonctionnalités du projet que vous avez sélectionnées dans l'Assistant Application.
-
-video2hdd.vcxproj.filters
-    Il s'agit du fichier de filtres pour les projets VC++ générés à l'aide d'un Assistant Application. Il contient des informations sur l'association entre les fichiers de votre projet et les filtres. Cette association est utilisée dans l'IDE pour afficher le regroupement des fichiers qui ont des extensions similaires sous un nœud spécifique (par exemple, les fichiers ".cpp" sont associés au filtre "Fichiers sources").
-
-video2hdd.cpp
-    Il s'agit du fichier source principal de l'application.
-
-/////////////////////////////////////////////////////////////////////////////
-Autres fichiers standard :
-
-StdAfx.h, StdAfx.cpp
-    Ces fichiers sont utilisés pour générer un fichier d'en-tête précompilé (PCH) video2hdd.pch et un fichier de type précompilé nommé StdAfx.obj.
+Application dédiée à récupérer des flux vidéos grace au protocole RTMP d'Adobe.
 
 /////////////////////////////////////////////////////////////////////////////
 Autres remarques :
 
-AppWizard utilise des commentaires "TODO:" pour indiquer les parties du code source où vous devrez ajouter ou modifier du code.
+Version alpha.
 
 /////////////////////////////////////////////////////////////////////////////
